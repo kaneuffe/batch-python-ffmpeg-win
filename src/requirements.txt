@@ -7,3 +7,5 @@ azure-mgmt-batch==18.0.0
 azure-mgmt-core==1.5.0
 azure-storage-blob==12.24.1
 azure-storage-common==1.4.2
+msrest==0.7.1
+msrestazure==0.6.4.post1
