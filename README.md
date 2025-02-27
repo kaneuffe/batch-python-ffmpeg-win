@@ -10,5 +10,5 @@ To run this python application several prerequisits are required.
 - Entra ID RBAC Storage Blob Data Contributer role for the batch for the Batch System Managed Indentity and the User Managed Identity on the batch-linked Storage Account. 
 - VNET with a subnet for the batch pool compute nodes.
 - The ffmpeg application for Windows added as an Application Pakage available through information provided at https://ffmpeg.org/ .
-  
-   
+- Python 3.12 version
+- Entra ID RBAC role Azure Batch Account Contributer for the entity that runs the script e.g. a user after doing an <i>az login</i>.   
