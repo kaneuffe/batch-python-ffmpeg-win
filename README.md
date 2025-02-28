@@ -15,7 +15,8 @@ To run this python application several prerequisits are required.
 
 # Configuration file variables
 
-All Vvariables to run the demo are defined in the <it>config.py</it> file within the <it>src</it> subdirectory.
+All Variables to run the demo are defined in the <it>config.py</it> file within the <it>src</it> subdirectory.
+
 
 | Variable | Value |
 |-|-|
