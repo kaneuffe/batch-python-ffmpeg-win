@@ -25,24 +25,24 @@ SUBSCRIPTION_ID = ''
 RESOURCE_GROUP_NAME = ''
 # Batch account details
 BATCH_ACCOUNT_NAME = ''
-BATCH_ACCOUNT_URL = 'https://'
+BATCH_ACCOUNT_URL = ''
 # Storage account name
 STORAGE_ACCOUNT_NAME = ''
 # Pool name
 POOL_ID = ''
 # Compute node count
-POOL_NODE_COUNT = 2
+POOL_NODE_COUNT = 0
 LOW_PRIORITY_POOL_NODE_COUNT = 0
 # Compute VM size
-POOL_VM_SIZE = 'ffmpeg_pool'
+POOL_VM_SIZE = ''
 # Job name
-JOB_ID = 'ffmpeg_job'
+JOB_ID = ''
 # Subnet ID Azure resource (/subscription/.../virtualNetworks/.../subnets/...)
 SUBNET_ID = ''
 # User managed identity Azure resouce (/subscription/.../userAssignedIdentities/...)
 USER_MANAGED_ID=''
 # Application name
-APP_NAME='ffmpeg'
+APP_NAME=''
 # Azure Application Resource ID (/subscriptions/.../providers/Microsoft.Batch/batchAccounts/.../applications/...)
 APP_ID=''
 # Part of the path to the executable between %AZ_BATCH_APP_PACKAGE_{APP_NAME}% and the executable 
