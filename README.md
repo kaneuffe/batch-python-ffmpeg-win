@@ -25,7 +25,7 @@ All Variables to run the demo are defined in the <it>config.py</it> file within 
 | BATCH_ACCOUNT_NAME | Name of the batch account |
 | BATCH_ACCOUNT_URL | URL of teh batch account (= 'https://...') |
 | STORAGE_ACCOUNT_NAME | Name of the storage account |
-| POOL_ID | Name of the batch compute node pool | 
+| POOL_ID | Name of the batch compute node pool (e.g. 'ffmpeg_pool') | 
 | POOL_NODE_COUNT | Number of PAYG (Pay As You Go) compute nodes within the pool |
 | LOW_PRIORITY_POOL_NODE_COUNT | Number of low priority compute nodes within the pool |
 | POOL_VM_SIZE | Compute node VM SKU (e.g. 'STANDARD_F1') |
