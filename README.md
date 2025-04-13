@@ -23,13 +23,13 @@ All Variables to run the demo are defined in the <it>config.py</it> file within 
 | SUBSCRIPTION_ID | Subscription ID |
 | RESOURCE_GROUP_NAME | Name of the resource group |
 | BATCH_ACCOUNT_NAME | Name of the batch account |
-| BATCH_ACCOUNT_URL | URL of teh batch account (= 'https://...') |
+| BATCH_ACCOUNT_URL | URL of the batch account (= 'https://...') |
 | STORAGE_ACCOUNT_NAME | Name of the storage account |
 | POOL_ID | Name of the batch compute node pool (e.g. 'ffmpeg_pool') | 
 | POOL_NODE_COUNT | Number of PAYG (Pay As You Go) compute nodes within the pool |
 | LOW_PRIORITY_POOL_NODE_COUNT | Number of low priority compute nodes within the pool |
 | POOL_VM_SIZE | Compute node VM SKU (e.g. 'STANDARD_F1') |
-| JOB_ID | Name of teh compute job (e.g. 'ffmpeg_job') |
+| JOB_ID | Name of the compute job (e.g. 'ffmpeg_job') |
 | SUBNET_ID | Subnet Azure resource ID ('/subscription/.../virtualNetworks/.../subnets/...)' |
 | USER_MANAGED_ID | User managed identity Azure resouce ('/subscription/.../userAssignedIdentities/...' |
 | APP_NAME | Name of the application (e.g. 'ffmpeg') |
